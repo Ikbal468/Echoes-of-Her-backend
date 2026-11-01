@@ -3,6 +3,13 @@
 /build
 *.tsbuildinfo
 
+# SQLite Database
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.sqlite-journal
+
 # Dependencies
 /node_modules
 /.pnp
